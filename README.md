@@ -46,4 +46,6 @@ Reading the data and preparation for analysis. Trip data are stored in a datafra
 ### analyze -> main
 Statistical tests
 
-
+# Publications related to this project
+## 2022
+[Affective experience in a virtual crowd regulates perceived travel time](https://doi.org/10.1007/s10055-022-00713-8)
